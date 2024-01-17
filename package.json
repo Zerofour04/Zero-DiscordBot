@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese / Ben//Zerofour//04",
+  "main": "bot.js",
+  "version": "2.1.7",
+  "dependencies": {
+    "@discordjs/opus": "latest",
+    "@discordjs/voice": "latest",
+    "@themondon/discord-player-v13": "^5.2.5",
+    "discord.js": "^13.14.0",
+    "feed-watcher": "^0.2.1",
+    "ffmpeg-static": "latest",
+    "fs-extra": "^11.2.0",
+    "fstorm": "latest",
+    "google-it": "^1.6.4",
+    "insert-line": "^1.1.0",
+    "jimp": "latest",
+    "jsonpath-plus": "^7.2.0",
+    "loadavg-windows": "^1.1.1",
+    "node-cron": "^3.0.3",
+    "node-google-translate-skidz": "^1.1.2",
+    "play-dl": "^1.9.7",
+    "spotify-web-api-node": "^5.0.2",
+    "tweetnacl": "latest",
+    "urban": "^0.3.4",
+    "uuid": "latest",
+    "weather-js": "^2.0.0",
+    "youtube-dl-exec": "^2.0.14",
+    "ytdl-core": "^4.10.0"
+  },
+  "is-music-bot": true
+}
