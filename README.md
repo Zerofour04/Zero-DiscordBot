@@ -1,7 +1,6 @@
 <h1 align="center">🤖Zero-DiscordBot-DBM</h1>
 <p align="center">
     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/Zerofour04/Zero-DiscordBot-DBM">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/Zerofour04/Zero-DiscordBot-DBM">
 </p>
 
 ## ℹ️Description
